@@ -7,9 +7,9 @@ layout: default
 		</div>
 		<h1 style="text-align:center;line-height:3;"></h1>
 
-		<h1 style="text-align:center;line-height:3;">争不过朝夕</h1>
+		<h1 style="text-align:center;line-height:3;">淡观山水闲看月，</h1>
 
-		<h1 style="text-align:center;line-height:3;">又念着往昔</h1>
+		<h1 style="text-align:center;line-height:3;">只读诗书不念愁。</h1>
 
 		<h1 style="text-align:center;line-height:3;"></h1>
 		<br />
