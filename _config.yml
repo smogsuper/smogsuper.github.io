@@ -1,7 +1,7 @@
-title: Noneface
-email: 956905550@qq.com
+title: smogsuper
+email: 1938508721@qq.com
 baseurl: /  # the subpath of your site, e.g. /blog/
-github_username:  noneface
+github_username:  smogsuper
 markdown: kramdown
 paginate: 13
 paginate_path: "/page:num" 
