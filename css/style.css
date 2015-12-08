@@ -51,12 +51,36 @@ h5{
 	font-size: 20px;
 	float: left;
 }
+.fa-heart{
+	font-size: 20px;
+	float: left;
+}
+.fa-smile-o{
+	font-size: 20px;
+	float: left;
+}
+.fa-folder-o{
+	font-size: 20px;
+	float: left;
+}
+.fa-book{
+	font-size: 20px;
+	float: left;
+}
 .fa-github{
 	color: white;
 	font-size: 25px;
 }
 .fa-github:hover{
 	color: #DCDCDC
+}
+.fa-qq{
+	color: white;
+	font-size: 25px;
+	margin-left:10%;
+}
+.fa-qq:hover{
+	color: #DCDCDC;
 }
 .fa-weibo{
 	color: white;
